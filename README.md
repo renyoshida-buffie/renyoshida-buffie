@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## Tech Stack
 
 **Languages**
@@ -90,13 +88,5 @@
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renyoshida-buffie&theme=github_dark" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renyoshida-buffie&theme=github_dark" />
-
-</div>
-
----
-
-<div align="center">
-
-`Thanks for visiting.`
 
 </div>
